@@ -1,6 +1,6 @@
 import sys, argparse
 
-def brain_comp(code: str):
+def brain_inter(code: str):
     """
     A simple Brainfuck interpreter that executes Brainfuck code provided as a string.
 
